@@ -20,6 +20,8 @@ pip install .
 ## Example
 
 ```python
+from fractional_cascading import Point, Tree, Rectangle
+
 # create points
 points = list()
 points.append(Point(name="A", loc=(1, 5)))  # loc = (x, y)
