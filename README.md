@@ -1,7 +1,7 @@
 # fractional_cascading
 
 Fractional cascading python api for 2-dimension points.
-This is the fast search algorithm to find the points (x, y) in a rectangle.
+This is the fast search algorithm to find the 2-dimensional points (x, y) in a rectangle.
 
 ## Install
 
